@@ -633,7 +633,7 @@ input[type="button"] {
   }
 
 
-  /* About Page Styles */
+  /* ABOUT Page Styles */
 
   .mission-content {
     display: flex;
@@ -644,6 +644,10 @@ input[type="button"] {
 
   .mission-content p {
     width: 45%;
+  }
+
+  .map figure {
+    padding-bottom: 45.5%;
   }
 
   .contact-section .content-wrapper h2 {
@@ -764,6 +768,10 @@ input[type="button"] {
   .contact-section .content-wrapper h2 {
     width: 95%;
     font-size: 3em; 
+  }
+
+  .map figure {
+    padding-bottom: 37.5%;
   }
 
   /* FAQ Page Styles */
