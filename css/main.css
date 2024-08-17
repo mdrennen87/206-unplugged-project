@@ -333,7 +333,7 @@ input[type="button"] {
 }
 
 .features .fontawesome-icon {
-  font-size: 3.8125;
+  font-size: 1em;
 }
 
 /* Reviews */
@@ -751,7 +751,7 @@ input[type="button"] {
   }
 
   .form-description p {
-    font-size: 1.125; 
+    font-size: 1.125em; 
   }
 
   /* Features area */
